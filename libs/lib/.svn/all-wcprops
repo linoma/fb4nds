@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/375/trunk/libs/lib
+END
+libctaocrypt.a
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/135/trunk/libs/lib/libctaocrypt.a
+END
+libz.a
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/134/trunk/libs/lib/libz.a
+END
+libcyassl.a
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/375/trunk/libs/lib/libcyassl.a
+END
+libpng.a
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/133/trunk/libs/lib/libpng.a
+END
+libgif.a
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/132/trunk/libs/lib/libgif.a
+END

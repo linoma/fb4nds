@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/389/trunk/src/arm9/source/gfx
+END
+ram_gfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/228/trunk/src/arm9/source/gfx/ram_gfx.c
+END
+sx_arrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/222/trunk/src/arm9/source/gfx/sx_arrow.c
+END
+def_font.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/222/trunk/src/arm9/source/gfx/def_font.c
+END
+dx_arrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/222/trunk/src/arm9/source/gfx/dx_arrow.c
+END
+sx2_arrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/222/trunk/src/arm9/source/gfx/sx2_arrow.c
+END
+down.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/382/trunk/src/arm9/source/gfx/down.c
+END
+dx2_arrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/222/trunk/src/arm9/source/gfx/dx2_arrow.c
+END
+fb4_logo_oam.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/222/trunk/src/arm9/source/gfx/fb4_logo_oam.c
+END
+notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/222/trunk/src/arm9/source/gfx/notify.c
+END
+bg1.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/384/trunk/src/arm9/source/gfx/bg1.c
+END
+neo_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/389/trunk/src/arm9/source/gfx/neo_flash.c
+END
+notify_friend.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/274/trunk/src/arm9/source/gfx/notify_friend.c
+END
+all_gfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/389/trunk/src/arm9/source/gfx/all_gfx.h
+END
